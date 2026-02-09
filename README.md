@@ -10,6 +10,7 @@ costumers not interested to buy the car, underprice will made loss-profit on the
 Marketplace definitely wants a big profit by selling the price of used cars on the persist
 price based on the type, mileage, options etc. How to made a competitive price is the one of
 the problem to made a big profit on their business.
+
 **Goal**
 Based on the problem statement above, marketplace definitely need have a tool that can
 predicted the Price of used cars to determine the best price of selling the used-cars. This
